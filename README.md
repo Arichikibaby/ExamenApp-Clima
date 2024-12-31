@@ -1,5 +1,5 @@
 >[!IMPORTANT]
-><h1>Wheather💻</h1>
+><h1>🖥️Wheather</h1>
 
 >[!NOTE]
 > <p>descarga la app 📱👉<a href="img/wheatherApp-debug.apk">aqui</a>👈</p>
@@ -19,30 +19,46 @@
     
 </p>
 
-
->[!WARNING]
-><h2>Caracteristicas de la app 📖 </h2>
-
-<ul>
-    <li>☑️Pantalla de login</li>
-    <li>☑️Pantalla para registrar usuarios</li>
-    <li>☑️Pantalla para calcular el IMC</li>
-</ul>
-
 >[!TIP]
-><h2>Tecnologias utilizadas 📖 </h2>
+><h2> 📱Tecnologias utilizadas 💻 </h2>
 
 <ol>
-    <li>✅Firebase</li>
-    <li>✅RealtimeDatabase</li>
-    <li>✅Authentication
-        <ul>
-    <li>✔️Correo electrónico/contraseña 📧</li>
-    <li>✔️Google 📱</li>
-    
-</ul>
-    </li>
-</ol>
+        <li>✅Lenguaje de Programación
+            <ul>
+                <li>✔️Kotlin</li>
+            </ul>
+        </li>
+        <li>✅APIs y Servicios
+            <ul>
+                <li>☑️Retrofit</li>
+                <li>☑️Gson</li>
+            </ul>
+        </li>
+        <li>✅Interfaz de Usuario (UI)
+            <ul>
+                <li>✅XML Layouts</li>
+                <li>✅Material Design Components:</li>
+            </ul>
+        </li>
+        <li>✅Bibliotecas Adicionales
+            <ul>
+                <li>☑️Glide 👌</li>
+                <li>☑️ViewModel y LiveData 📁</li>
+                <li>☑️Coroutines</li>
+            </ul>
+        </li>
+        <li>✅Herramientas de Desarrollo
+            <ul>
+                <li>✔️Android Studio</li>
+                <li>✔️Emulador Android</li>
+            </ul>
+        </li>
+        <li>✅Control de Versiones
+            <ul>
+                <li>☑️Git y GitHub 🧑‍🏫</li>
+            </ul>
+        </li>
+    </ol>
 
     
 
