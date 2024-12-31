@@ -2,7 +2,7 @@
 ><h1>🖥️Wheather</h1>
 
 >[!NOTE]
-> <p>descarga la app 📱👉<a href="img/wheatherApp-debug.apk">aqui</a>👈</p>
+> <p>Descarga la app 📱👉<a href="img/wheatherApp-debug.apk">aqui</a>👈</p>
 
 
 
