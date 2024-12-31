@@ -11,10 +11,10 @@
 
 <h2>Funcionalidades de la aplicación 📁</h2>
 <p>
-    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_4.jpeg?raw=true" width="150" alt="">
-    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_1.jpeg?raw=true" alt="" width="150">
-    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_3.jpeg?raw=true" alt="" width="150">
-    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_2.jpeg?raw=true" alt="" width="150">
+    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_4.jpeg?raw=true" width="100" alt="">
+    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_1.jpeg?raw=true" alt="" width="100">
+    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_3.jpeg?raw=true" alt="" width="100">
+    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_2.jpeg?raw=true" alt="" width="100">
     
     
 </p>
