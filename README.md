@@ -5,9 +5,9 @@
 > <p>Descubre el clima en cualquier ciudad de <b>Ecuador</b>  con nuestra app desarrollada en <i>Android Studio 📱</i> . Consulta información en tiempo real sobre temperatura, humedad, y pronósticos con una interfaz simple y fácil de usar. ¡Mantente siempre preparado para el clima!</p>
 
 <h2>Funcionalidades de la aplicación 📁</h2>
-<p><img src="https://github.com/AndyCajas/IMC/blob/master/imagenes/img_registro.jpg?raw=true" width="100" alt=""> <img src="https://raw.githubusercontent.com/AndyCajas/IMC/refs/heads/master/imagenes/img_login.jpg" alt="" width="100">
-    <img src="https://github.com/AndyCajas/IMC/blob/master/imagenes/img_fp.jpg?raw=true" alt="" width="100">
-    <img src="https://github.com/AndyCajas/IMC/blob/master/imagenes/imgfp1.jpg?raw=true" alt="" width="100">
+<p><img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_4.jpeg?raw=true" width="130" alt=""> <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_3.jpeg?raw=true" alt="" width="130">
+    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_2.jpeg?raw=true" alt="" width="130">
+    <img src="https://github.com/Arichikibaby/ExamenApp-Clima/blob/master/img/img_1.jpeg?raw=true" alt="" width="130">
     
 </p>
 
