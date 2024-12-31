@@ -1,5 +1,10 @@
->[!TIP]
+>[!IMPORTANT]
 ><h1>Wheather💻</h1>
+
+>[!NOTE]
+> <h2>Aplicación</h2>
+
+<p>descarga la app 📱👉<a href="img/wheatherApp-debug.apk">aqui</a>👈</p>
 
 >[!NOTE]   
 > <p>Descubre el clima en cualquier ciudad de <b>Ecuador</b>  con nuestra app desarrollada en <i>Android Studio 📱</i> . Consulta información en tiempo real sobre temperatura, humedad, y pronósticos con una interfaz simple y fácil de usar. ¡Mantente siempre preparado para el clima!</p>
@@ -40,8 +45,4 @@
 </ol>
 
     
->[!IMPORTANT]
-> <h2>Aplicación</h2>
 
-
-<p>descarga la app 📱👉<a href="imagenes/app_IMC.apk">aqui</a>👈</p>
